@@ -1,8 +1,8 @@
 @font-face {
   /*Esta es para el icono en los textos*/
   font-family: "icons";
-  src: url(/NewsProject1/fonts/websymbols-regular-webfont.svg#WebSymbolsRegular) format(svg), url(/NewsProject1/fonts/websymbols-regular-webfont.eot);
-  src: url(/NewsProject1/fonts/web?#iefix) format("embedded-opentype"), url(/NewsProject1/fonts/websymbols-regular-webfont.woff) format("woff"), url(/NewsProject1/fonts/websymbols-regular-webfont.ttf) format("truetype");
+  src: url(https://crisrmrz.github.io/News/fonts/websymbols-regular-webfont.svg#WebSymbolsRegular) format(svg), url(/https://crisrmrz.github.io/News/fonts/websymbols-regular-webfont.eot);
+  src: url(https://crisrmrz.github.io/News/fonts/web?#iefix) format("embedded-opentype"), url(https://crisrmrz.github.io/News/fonts/websymbols-regular-webfont.woff) format("woff"), url(https://crisrmrz.github.io/News/fonts/websymbols-regular-webfont.ttf) format("truetype");
   font-weight: normal;
   font-style: normal;
 }
