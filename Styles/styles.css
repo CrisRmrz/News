@@ -198,7 +198,7 @@ body {
       -ms-flex-align: center;
           align-items: center;
   margin-top: 15px;
-  background: url(/NewsProject1/IMG/pexels-markus-winkler-4052198.jpg) no-repeat center center/cover;
+  background: url(https://crisrmrz.github.io/News/IMG/pexels-markus-winkler-4052198.jpg) no-repeat center center/cover;
   height: 500px;
 }
 
@@ -350,7 +350,7 @@ body {
       -ms-flex-pack: end;
           justify-content: end;
   margin-top: 10px;
-  background: url(/NewsProject1/IMG/netfliximg.jpg) no-repeat center center/cover;
+  background: url(https://crisrmrz.github.io/News/IMG/netfliximg.jpg) no-repeat center center/cover;
   min-height: 500px;
 }
 
